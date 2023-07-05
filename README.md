@@ -89,11 +89,9 @@ Although it is not the full algorithm of Shazam, it is open for further improvem
 
 # References 🔖
 
-[An Industrial-Strength Audio Search Algorithm](https://www.Ee.Columbia.Edu/~Dpwe/Papers/Wang03-shazam.Pdf.)
+[An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)
 
-[Cameron MacLeod’s Profile Picture](https://www.Cameronmacleod.Com/Blog/How-does-shazam-work)
-
-[Toptal Engineering Blog](www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition)
+[How does Shazam work?](https://www.cameronmacleod.com/blog/how-does-shazam-work)
 
 [Audio Fingerprinting with Python and Numpy](https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/)
 

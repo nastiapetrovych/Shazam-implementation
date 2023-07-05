@@ -2,12 +2,12 @@
 
 
 ## Table of contents
-* [Introduction](#introduction)
+* [Introduction](#Introduction)
 * [Problem setting](#problem-setting)
 * [Review of possible approaches](#review-of-possible-approaches)
 * [Implementation](#implementation)
-* [Results](results)
-* [References](references)
+* [Results](#results)
+* [References](#references)
 
 
 ## Introduction 📖

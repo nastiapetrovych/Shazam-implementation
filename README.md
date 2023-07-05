@@ -2,10 +2,10 @@
 
 
 ## Table of contents
-* [Introduction](#intro)
-* [Problem setting](#setting)
-* [Review of possible approaches](#approach)
-* [Implementation](#implement)
+* [Introduction](#introduction)
+* [Problem setting](#problem-setting)
+* [Review of possible approaches](#review-of-possible-approaches)
+* [Implementation](#implementation)
 
 
 ## Introduction

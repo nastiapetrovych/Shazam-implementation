@@ -29,3 +29,10 @@ Indeed, many solutions propose Music Recognition, as Shazam and other apps can d
 
 
 ## Implementation
+
+#Shazam’s Music Recognition algorithm can be divided into the following parts:
+
+1. Fast Fourier Transform of the song/fragment of the song
+2. Finding peaks by ap- plying filtering algorithm
+3. Hashing
+4. Matching

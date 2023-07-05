@@ -6,6 +6,8 @@
 * [Problem setting](#problem-setting)
 * [Review of possible approaches](#review-of-possible-approaches)
 * [Implementation](#implementation)
+* [Results](results)
+* [References](references)
 
 
 ## Introduction 📖
